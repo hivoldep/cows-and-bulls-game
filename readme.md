@@ -2,8 +2,11 @@ the concept of the game is basically that we randomly set a 4 digit number and a
 a certain number of chances, and tell him the number of cows and bulls, where cows represent a digit which is present in the 
 randomly set number but is at the wrong place, whereas a bull is a digit which is present in the set number and is at the right place
 some examples are
+
 if the set number is 4577
+
 then the let cows be c and bulls be  b
+
 then for different inputs
 
 1)5479 c=2 b=1
