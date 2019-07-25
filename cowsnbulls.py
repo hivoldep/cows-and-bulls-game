@@ -34,7 +34,7 @@ def cows_n_bulls():
                                 print (e)
                                 print (bulls,"bulls")
                                 print (cows,"cows")
-                                print 10-e,"chances left"
+                                print (10-e,"chances left")
                                 if e==10:
                                                 print ("Game over, you lost the game")
                                                 print ("The number was",c)
