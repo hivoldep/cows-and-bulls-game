@@ -6,8 +6,7 @@ randomly set number but is at the wrong place, whereas a ***bull*** is a digit w
 some examples are as follows
 
 Suppose the set number is **4577**
-then the let no. of  ***cows*** be ***c*** and ***bulls*** be  ***b***
-then for different inputs
+then the let no. of  ***cows*** be ***c*** and ***bulls*** be  ***b*** then for different inputs
 
 1) **5479 c=2 b=1**
 
