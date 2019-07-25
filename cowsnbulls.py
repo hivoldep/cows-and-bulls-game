@@ -31,7 +31,7 @@ def cows_n_bulls():
                                     elif f[j] not in g:
                                                 h=1
                                 e=e+1
-                                print (e)
+                                print e
                                 print (bulls,"bulls")
                                 print (cows,"cows")
                                 print (10-e,"chances left")
