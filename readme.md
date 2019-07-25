@@ -1,5 +1,4 @@
 # Cows and Bulls Game
-
 The concept of the game is basically that we randomly set a 4 digit number and ask the user for a 4 digit number and given him
 a certain number of chances, and tell him the number of cows and bulls, where a ***cow*** represent a digit which is present in the 
 randomly set number but is at the wrong place, whereas a ***bull*** is a digit which is present in the set number and is at the right place
